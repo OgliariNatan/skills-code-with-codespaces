@@ -23,7 +23,7 @@
      }
 
      ,
-     "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
+     "postCreateCommand": "echo '# Minha primeira alteração com o codespace'  >> codespace.md"
  }
 
 
