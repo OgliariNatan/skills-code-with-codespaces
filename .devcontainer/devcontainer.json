@@ -26,11 +26,4 @@
      "postCreateCommand": "echo '# Minha primeira alteração com o codespace'  >> codespace.md"
  }
 
-
-
-
-
-
-
-
 }
